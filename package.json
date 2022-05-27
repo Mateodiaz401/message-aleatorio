@@ -1,7 +1,7 @@
 {
   "name": "message-aleatorio",
   "version": "1.0.0",
-  "description": "Mensage random",
+  "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,15 @@
   "author": "Mateo Díaz <mateodiaz401@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateodiaz401/message-aleatorio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mateodiaz401/message-aleatorio/issues"
+  },
+  "homepage": "https://github.com/Mateodiaz401/message-aleatorio#readme"
 }
